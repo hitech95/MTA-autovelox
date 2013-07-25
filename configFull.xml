@@ -1,0 +1,75 @@
+<speedcams>
+	<!--speedcam x="0" y="0" z="1" angle="0" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" /-->
+	<speedcam x="2106" y="1805" z="9" angle="80" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="2060" y="1112" z="9" angle="-65" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="974" y="767" z="9" angle="-30" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="987" y="735" z="9" angle="35" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="2765" y="115" z="22" angle="110" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="2769" y="115" z="22" angle="-75" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="1770" y="-1508" z="9.5" angle="15" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="1767" y="-1510" z="10" angle="-155" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="1053" y="-191" z="31" angle="135" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="1521" y="-1598" z="12" angle="130" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="1524" y="-1601" z="12" angle="-74" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-1081" y="-913" z="78" angle="-94" standDirection="right" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-1673" y="-759" z="40" angle="-85" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-1996" y="706" z="44" angle="-145" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-1683" y="-1491" z="33" angle="175" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-383" y="1316" z="24" angle="-105" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-2839" y="-1883" z="44" angle="-105" standDirection="right" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-2606" y="-2121" z="30" angle="95" standDirection="right" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-646" y="-1330" z="17" angle="-145" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-652" y="-2215" z="8" angle="-185" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="-117" y="-394" z="0" angle="-90" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	<speedcam x="329" y="78" z="2" angle="165" standDirection="down" size="12" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	
+	<speedsign x="2078" y="984" z="10" angle="0" />
+	<speedsign x="2060" y="985" z="10" angle="0" />
+	<speedsign x="1121" y="861" z="10" angle="140" />
+	<speedsign x="1136" y="847" z="10" angle="126" />
+	<speedsign x="817" y="670" z="11" angle="286" />
+	<speedsign x="811" y="681" z="11" angle="286" />
+	<speedsign x="2117" y="2012" z="10" angle="186" />
+	<speedsign x="2135" y="2013" z="10" angle="186" />
+	<speedsign x="2682" y="288" z="39" angle="252" />
+	<speedsign x="2689" y="297" z="39" angle="252" />
+	<speedsign x="2778" y="-14" z="35" angle="360" />
+	<speedsign x="2767" y="-14" z="34" angle="360" />
+	<speedsign x="1965" y="-1507" z="3" angle="92" />
+	<speedsign x="1965" y="-1493" z="3" angle="92" />
+	<speedsign x="1663" y="-1534" z="23" angle="250" />
+	<speedsign x="1684" y="-1552" z="23" angle="310" />
+	<speedsign x="894" y="-180" z="11" angle="266" />
+	<speedsign x="1168" y="-165" z="40" angle="112" />
+	<speedsign x="1440" y="-1597" z="12" angle="276" />
+	<speedsign x="1647" y="-1587" z="12" angle="88" />
+	<speedsign x="1535" y="-1721" z="12" angle="360" />
+	<speedsign x="-891" y="-1107" z="100" angle="40" />
+	<speedsign x="-1224" y="-783" z="65" angle="210" />
+	<speedsign x="-1430" y="-813" z="78" angle="98" />
+	<speedsign x="-1767" y="-594" z="16" angle="182" />
+	<speedsign x="-1538" y="-1592" z="37" angle="0" />
+	<speedsign x="-1911" y="-1381" z="39" angle="246" />
+	<speedsign x="-1996" y="619" z="34" angle="352" />
+	<speedsign x="-2013" y="719" z="44" angle="174" />
+	<speedsign x="-263" y="1247" z="23" angle="76" />
+	<speedsign x="-452" y="1477" z="34" angle="182" />
+	<speedsign x="-2526" y="-2147" z="30" angle="26" />
+	<speedsign x="-2537" y="-2153" z="30" angle="26" />
+	<speedsign x="-2936" y="-1729" z="19" angle="184" />
+	<speedsign x="-2924" y="-1730" z="19" angle="184" />
+	<speedsign x="449" y="189" z="10" angle="130" />
+	<speedsign x="242" y="43" z="1" angle="272" />
+	<speedsign x="-248" y="-277" z="0" angle="220" />
+	<speedsign x="47" y="-627" z="2" angle="348" />
+	<speedsign x="-686" y="-1712" z="40" angle="336" />
+	<speedsign x="-569" y="-1121" z="22" angle="160" />
+	<speedsign x="-734" y="-2400" z="55" angle="336" />
+	<speedsign x="-448" y="-2181" z="59" angle="72" />
+	
+	<tutor distance="305" requiredSpeed="50" ticketCost="100" ticketWanted="2" >
+		<gateA x="432" y="598" z="18" size="14" />
+		<gateB x="608" y="347" z="18" size="14" />		
+	</tutor>
+	
+</speedcams>

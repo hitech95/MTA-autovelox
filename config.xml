@@ -1,0 +1,11 @@
+<speedcams>
+	<speedcam x="0" y="0" z="1" angle="0" standDirection="down" size="10" requiredSpeed="50" ticketCost="100" ticketWanted="2" />
+	
+	<speedsign x="1" y="1" z="2" angle="0" />
+	
+	<tutor distance="305" requiredSpeed="50" ticketCost="100" ticketWanted="2" >
+		<gateA x="432" y="598" z="18" size="14" />
+		<gateB x="608" y="347" z="18" size="14" />		
+	</tutor>
+	
+</speedcams>

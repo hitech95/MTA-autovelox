@@ -1,0 +1,17 @@
+<meta>
+	<info author="hitech95" version="0.0.1" name="Autovelox" type="misc" />
+	
+	<script src="server.lua" />
+	<script src="client.lua" type="client" />
+	
+	<settings>
+		<setting name="*useIcon" value="[true]" />
+		<setting name="*isDebug" value="[false]" />
+	</settings>
+	
+	<file src="txd/speedsign.txd" />
+	<file src="txd/box.txd" />
+	
+	<file src="blip/speedcam.png" />
+	<config src="config.xml" />
+</meta>
