@@ -1,13 +1,10 @@
 MTA-autovelox
 =============
-******************************************
-*					 *
-*    Resource: autovelox		 *
-*    Version:    0.1b3			 *
-*    Made by: HitechWorld & HunTeRiX     *
-*                                 	 *
-*					 *
-******************************************
+				
+*    Resource: autovelox
+*    Version:    0.1b3
+*    Made by: HitechWorld & HunTeRiX
+    
 -----------------------------
 1. Description
 -----------------------------
